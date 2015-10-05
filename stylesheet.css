@@ -1,0 +1,209 @@
+/**********
+GENERAL
+**********/
+
+a:link {
+  color: #66FF99;
+  background-color: transparent;
+  text-decoration: none;
+  text-shadow: 15px 10px 15px rgba(10,80,60, 1);
+}
+
+a:hover {
+  color: #85FFAD;
+  background-color: transparent;
+  text-shadow: 15px 10px 15px rgba(10,80,60, 1);
+}
+
+#wrapper {
+  max-width: 940px;
+  margin: 0 auto;
+  padding: 0 5%;
+}
+
+#images li {
+  list-style-type: none;
+  text-shadow: 15px 20px 35px rgba(20,80,50, 1);
+  background-color: transparent;
+}
+
+#gallery {
+  margin: 0;
+  padding: 0;
+  list-style: none;
+}
+
+#gallery li {
+  float: left;
+  width: 45%;
+  margin: 2.5%;
+  background-color: none;
+  color: #47B247;
+}
+
+#gallery li a p {
+  margin: 0;
+  padding: 5%;
+  font-size: 0.7em;
+  color: #47B247;
+}
+
+body {
+  font-family: 'Kaushan Script', sans-serif;
+}
+
+#links {
+	list-style-type: none;
+}
+
+a {
+  text-decoration: none;
+}
+
+img {
+  max-width: 100%;
+}
+
+h3 {
+  margin: 0 0 1em 0;
+}
+
+/**********
+HEADING
+**********/
+
+header {
+  float: left;
+  margin: 0 0 30px 0;
+  padding: 5px 0 0 0;
+  width: 100%;
+  -webkit-border-radius: 5px;
+  border-radius: 20px;
+}
+
+/* Logo Format */
+#logo {
+  text-align: center;
+  margin: 0;
+}
+
+h1 {
+  font-family: 'Kaushan Script', sans-serif;
+  margin: 15px 0;
+  font-size: 1.75em;
+  font-weight: normal;
+  line-height: 0.8em;
+  text-shadow: 15px 15px 25px rgba(10,80,60, 1);
+}
+
+h2 {
+  font-size: 0.75em;
+  margin -5px 0 0;
+  font-weight: normal;
+  text-shadow: 5px 10px 15px rgba(10,80,60, 1);
+}
+
+/**********
+NAVIGATION
+**********/
+
+nav {
+  text-align: center;
+  padding: 3px 0;
+  margin: 5px 0 0;
+}
+
+nav ul {
+  list-style: none;
+  margin: 0 10px;
+  padding: 0;
+}
+
+nav li {
+  display: inline-block;
+}
+
+nav a {
+  font-weight: 800;
+  padding: 15px 5px;
+}
+
+.boxed {
+  margin: 0 0 25px;
+  overflow: hidden;
+  padding: 20px;
+  background-color: none;
+  border: 3px dotted #66FF99;
+  -webkit-border-radius: 5px;
+  border-radius: 20px;
+  box-shadow: 5px 10px 25px #000A00;
+}
+
+/**********
+COLORS
+**********/
+
+body{
+background-image:url('http://orig01.deviantart.net/1486/f/2015/196/b/8/kz_by_kikiandzoejay-d91e4su.png');
+background-position: center;
+background-size: 2975px;
+color: #90EE90;
+}
+
+/* Green Header */
+header {
+background: #3D995C;
+border-color: #47B26B;
+}
+
+/* Navigation Background For Mobile */
+nav {
+ background: #47B26B;
+   -webkit-border-radius: 5px;
+  border-radius: 10px;
+}
+
+/* Logo Text Color */
+h1, h2 {
+  color: #47B26B;
+}
+
+/* Link Colors */
+a {
+  color: #66FF99;
+}
+
+/* Navigation Link Colors */
+nav a, nav a:visited {
+color: #66FF99;
+}
+/* Navigation Link Hover Color */
+nav a.selected, nav a:hover {
+  color: #85FFAD;
+}
+
+.centertext {
+	text-align: center;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
